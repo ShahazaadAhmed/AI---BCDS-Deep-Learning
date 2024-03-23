@@ -6,7 +6,7 @@ Project can be accessed by using this link --- https://github.com/ShahazaadAhmed
 
 ## Project Description
 
-We have created a breast cancer diagnosis system powered by Deep learning that is both highly accurate and readily available using sonar images. The model will quickly and precisely scan and analyze sonar images using advanced deep learning algorithms.
+We have Developed a breast cancer diagnosis system powered by Deep learning that is both highly accurate and readily available using sonar images. The model will quickly and precisely scan and analyze sonar images using advanced deep learning algorithms.
 
 ## Deep Learning Model Flow
 
