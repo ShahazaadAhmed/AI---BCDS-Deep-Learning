@@ -14,12 +14,11 @@ We have created a breast cancer diagnosis system powered by Deep learning that i
 
 ## Team Members
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 20px;">
-        <img src="images/Sreecharan.JPEG" alt="Sree Charan" width="100">
-        <h3>Sree Charan</h3>
+<div style="flex: 1; margin-right: 20px;">
+        <img src="images/sh.jpg" alt="Shahazaad Ahmed" width="100">
+        <h3>Shahazaad Ahmed</h3>
         <div>
-            <a href="https://www.linkedin.com/in/sree-charan-mamidi-/" target="_blank">LinkedIn</a> | <a href="https://github.com/Sreecharan2027" target="_blank">GitHub</a>
+            <a href="LINKEDIN_URL" target="_blank">LinkedIn</a> | <a href="GITHUB_URL" target="_blank">GitHub</a>
         </div>
     </div>
   -----
@@ -42,11 +41,12 @@ We have created a breast cancer diagnosis system powered by Deep learning that i
     </div>
     -----
     -----
+    <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 20px;">
-        <img src="images/sh.jpg" alt="Shahazaad Ahmed" width="100">
-        <h3>Shahazaad Ahmed</h3>
+        <img src="images/Sreecharan.JPEG" alt="Sree Charan" width="100">
+        <h3>Sree Charan</h3>
         <div>
-            <a href="LINKEDIN_URL" target="_blank">LinkedIn</a> | <a href="GITHUB_URL" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/sree-charan-mamidi-/" target="_blank">LinkedIn</a> | <a href="https://github.com/Sreecharan2027" target="_blank">GitHub</a>
         </div>
     </div>
     -----
